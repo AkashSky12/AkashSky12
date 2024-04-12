@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashsky12" alt="akashsky12" /></a> </p>
 
-- 🌱 I’m currently learning **QAOps**
+- 🌱 I’m currently learning ~ **QAOps**
 
-- 💬 Ask me about **Manual/Automation Testing, Test Planning and Test Strategy, Core Java, Selenium, TestNG, Maven, API-Testing, Postman/Swagger, REST Automation, Appium, Cucumber, Git, Jenkins, Agile Methodology, Jira, Testrail, Automation Framework Designing, Team Development and Mentoring**
+- 💬 Ask me about ~ **Manual/Automation Testing, Test Planning and Test Strategy, Core Java, SDLC, Selenium, TestNG, Maven, API-Testing, Postman/Swagger, REST Automation, Appium, Cucumber, Git, Jenkins, Agile Methodology, Jira, Testrail, Bug Tracking/Maintainence, Risk Management, Automation Framework Designing, Team Development and Mentoring**
 
-- 📫 How to reach me **akash.mosey99@gmail.com**
+- 📫 How to reach me ~ **akash.mosey99@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/akash-simon-13a426144/](https://www.linkedin.com/in/akash-simon-13a426144/)
+- 📄 Know about my experiences ~ [https://www.linkedin.com/in/akash-simon-13a426144/](https://www.linkedin.com/in/akash-simon-13a426144/)
 
-- ⚡ Fun fact **Music Lover**
+- ⚡ Fun fact ~ **Music Lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
